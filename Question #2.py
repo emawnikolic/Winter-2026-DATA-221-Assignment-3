@@ -22,7 +22,7 @@ plt.ylabel("Values")
 plt.show()
 
 
-# COMMENTS (5–7 sentences total as required):
+# COMMENTS:
 # The histogram shows how the values of violent crimes per population
 # are distributed across different ranges. It helps us see whether the
 # data is concentrated in certain intervals or spread out widely.
